@@ -7,6 +7,7 @@ public class dayname{
        Scanner sc=new Scanner(System.in);
        int dno=sc.nextInt(); 
 
+
        if (dno==1){
         System.out.println("Monday");
        }
