@@ -1,5 +1,3 @@
-
-
 import java.util.Scanner;
 
 public class menu_driven_program{
@@ -31,7 +29,7 @@ public class menu_driven_program{
             break;
             default:System.out.println("Invalid");
             break;
-            
+
 
         }
 
