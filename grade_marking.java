@@ -36,13 +36,6 @@ public class grade_marking{
             System.out.println("Fail");
         }
 
-
-
-
-
-
-
-
     }
 
 }
