@@ -27,6 +27,7 @@ public class challengeswitch{
             default: System.out.println("Invalid");
             break;
         }
+        
 
     }
 }
