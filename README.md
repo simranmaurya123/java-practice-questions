@@ -1,6 +1,6 @@
 # Java practice questions
 
-- This repository contains all my java exercises I've practiced.
+- This repository contains all the Java exercises I've practiced.
 
  # DOWNLOAD
    - To get started with Java, you need to download and install the Java Development Kit (JDK).
