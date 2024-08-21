@@ -2,7 +2,7 @@
 
 - This repository contains all my java exercises I've practiced.
 
- ## DOWNLOAD
+ # DOWNLOAD
    - To get started with Java, you need to download and install the Java Development Kit (JDK).
   
    - U can download java using these links
@@ -16,7 +16,7 @@
 ## PREQUISITES
 - Stable version of java should be installed on the system
 
-## CLONE A REPOSITORY
+## CLONE REPOSITORY
 
 1. On GitHub.com, navigate to the main page of the repository.
 2. Above the list of files, click <> Code.
@@ -53,3 +53,5 @@ cd java-practice-questions
 Java 'filename'
 
 ```
+
+- The repository has been cloned to your local machine. You can now work with it.
