@@ -27,7 +27,7 @@
 
 - To clone the repository using an SSH key, including a certificate issued by your organization's SSH certificate authority, click SSH, then click📋
 
-- To clone a repository using GitHub CLI, click GitHub CLI, then click ![](C:\Users\Developer\Downloads\Screenshot 2024-08-21 134243.png)
+- To clone a repository using GitHub CLI, click GitHub CLI, then click 
 ![](https://docs.github.com/assets/cb-60499/mw-1440/images/help/repository/https-url-clone-cli.webp)
 
 4.Open Git Bash.
