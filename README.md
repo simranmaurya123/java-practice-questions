@@ -19,5 +19,7 @@
 ![](https://docs.github.com/assets/cb-60499/mw-1440/images/help/repository/https-url-clone-cli.webp)
 
 4.Open Git Bash.
+
 5.Change the current working directory to the location where you want the cloned directory.
+
 6.Type ''' git clone ''', and then paste the URL you copied earlier.
