@@ -22,9 +22,22 @@
 
 5.Change the current working directory to the location where you want the cloned directory.
 
-6.Type ``` git clone```, and then paste the URL you copied earlier.
+6.Type ``` git clone``` in Terminal, and then paste the URL you copied earlier.
 
 ```
 https://github.com/simranmaurya123/java-practice-questions.git
+
+```
+7. Navigate to the repository category
+ 
+```
+cd Java
+
+```
+8. Run this script
+
+```
+
+Java 'filename'
 
 ```
