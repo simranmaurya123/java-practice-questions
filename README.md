@@ -2,7 +2,19 @@
 
 - This repository contains all my java exercises I've practiced.
 
+ ## DOWNLOAD
+   - To get started with Java, you need to download and install the Java Development Kit (JDK).
+  
+   - U can download java using these links
+   
+   - For [WINDOWS](https://download.oracle.com/java/22/latest/jdk-22_windows-x64_bin.exe)
+   - For [LINUX](https://www.oracle.com/in/java/technologies/downloads/#jdk22-linux)
+   - For [macOS](https://www.oracle.com/in/java/technologies/downloads/#jdk22-mac)
+   
+# GETTING STARTED
 
+## PREQUISITES
+- Stable version of java should be installed on the system
 
 ## CLONE A REPOSITORY
 
