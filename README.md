@@ -31,7 +31,7 @@ https://github.com/simranmaurya123/java-practice-questions.git
 7. Navigate to the repository category
  
 ```
-cd Java
+cd java-practice-questions
 
 ```
 8. Run this script
