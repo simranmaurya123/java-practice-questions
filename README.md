@@ -46,7 +46,7 @@ https://github.com/simranmaurya123/java-practice-questions.git
 cd java-practice-questions
 
 ```
-8. Run this script
+8. Run the script
 
 ```
 
