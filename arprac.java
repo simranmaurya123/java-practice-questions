@@ -15,6 +15,7 @@ public class arprac{
                        SUM
                        SUB
                        MUL""");
+
     String s1=sc.next().toUpperCase();
 
     
@@ -34,32 +35,31 @@ public class arprac{
             for (int j = 0; j < 3; j++) {
                 arr2[i][j]=sc.nextInt();
                 
-            }
-            
+            }          
         }
-
         switch (s1) {
             case "SUM" -> {
                 for (int i = 0; i < 3; i++) {
                     for (int j = 0; j <arr[i].length; j++) {
-                        result[i][j]=arr[i][j]+ arr2[i][j];
-                       
-                        
+                        result[i][j]=arr[i][j]+ arr2[i][j];       
                     }
                     System.out.println(" ");
                 }
             }
+
+
             case "SUB" -> {
                 for (int i = 0; i < 3; i++) {
                     for (int j = 0; j <arr[i].length; j++) {
                         
-                        result[i][j]=arr[i][j]- arr2[i][j];
-                        
+                        result[i][j]=arr[i][j]- arr2[i][j];           
                         
                     }
                     System.out.println(" ");
                 }
             }
+
+
             case "MUL" -> {
                 for (int i = 0; i < 3; i++) {
                     for (int j = 0; j <3; j++) {
@@ -88,6 +88,4 @@ public class arprac{
         }
 
         }        
-        
-    
     }
